@@ -1,0 +1,10 @@
+api = https://api.github.com/search/users?q=pjaya
+api = https://api.github.com/search/users?q=jay+language:assembly&sort=stars&order=desc
+
+
+https://api.github.com/users/pjaya2016
+
+https://api.github.com/search/users?q=pjaya&page=1&per_page=5
+
+	//axios.get(`https://api.github.com/search/users?q=${username}&page=1&per_page=50`);
+	//https://api.github.com/search/users?q=jay+language:%22%22&sort=%22stars%22&order=desc
